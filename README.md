@@ -12,12 +12,12 @@ This application is a versatile solution for small businesses to seamlessly inte
 
 ---
 
-## Tech Stack
+<!-- ## Tech Stack
 - **Frontend Framework**: [Next.js](https://nextjs.org/), [React.js](https://reactjs.org/)
 - **UI Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Charting**: [Chart.js](https://www.chartjs.org/), [React Chart.js 2](https://react-chartjs-2.js.org/)
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
-- **Notifications**: [React Toastify](https://fkhadra.github.io/react-toastify/)
+- **Notifications**: [React Toastify](https://fkhadra.github.io/react-toastify/) -->
 
 ---
 
