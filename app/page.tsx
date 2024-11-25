@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <div className="bg-gray-50 min-h-screen">
       {/* Header */}
-      <header className="bg-blue-500 text-white py-6">
+      <header className="bg-blue-500 text-white py-6 sticky top-0">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold">Cross_Year Integration Tool</h1>
           <Link href="/dashboard">
