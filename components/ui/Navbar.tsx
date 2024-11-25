@@ -1,7 +1,9 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
+import Logo from "../../public/logo.svg"
 import {
   FaTachometerAlt,
   FaBoxes,
@@ -36,7 +38,8 @@ export default function Navbar() {
     <header className="bg-blue-500 text-white py-4">
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <Link href="/" className="text-2xl font-bold">
+        <Link href="/" className="text-2xl font-bold flex gap-2">
+          <Image src={Logo} alt="logo" width={30} />
           Cross_Year
         </Link>
 

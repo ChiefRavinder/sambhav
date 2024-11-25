@@ -2,6 +2,9 @@
 import Link from "next/link";
 import { Button } from "../components/ui/button";
 import { useEffect, useState } from "react";
+import Logo from "../public/logo.svg"
+import Image from "next/image";
+
 
 export default function Home() {
   const [stats, setStats] = useState({
@@ -36,7 +39,12 @@ export default function Home() {
       {/* Header */}
       <header className="bg-blue-500 text-white py-6 sticky top-0">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Cross_Year Integration Tool</h1>
+        <Link href="/" className="text-2xl font-bold flex gap-2">
+          <Image src={Logo} alt="logo" width={30} />
+          Cross_Year Integration Tool
+        </Link>
+        {/* <Image src={Logo} alt="logo" width={30} /> */}
+          {/* <h1 className="text-2xl font-bold">Cross_Year Integration Tool</h1> */}
           <Link href="/dashboard">
             <Button className="bg-white text-blue-500">Go to Dashboard</Button>
           </Link>
