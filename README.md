@@ -19,7 +19,7 @@ This application is a versatile solution for small businesses to seamlessly inte
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
 - **Notifications**: [React Toastify](https://fkhadra.github.io/react-toastify/) -->
 
----
+
 
 ## Installation
 Follow these steps to set up and run the application locally.
