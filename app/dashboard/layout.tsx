@@ -5,7 +5,10 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
   return (
     <div className="flex min-h-screen flex-col">
       {/* Navbar */}
+      <div className="sticky top-0">
       <Navbar />
+
+      </div>
 
       <div className="flex flex-1">
         {/* Sidebar */}
