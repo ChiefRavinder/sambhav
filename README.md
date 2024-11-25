@@ -33,3 +33,13 @@ Follow these steps to set up and run the application locally.
    ```bash
    git clone [repository-link]
    cd [repository-folder]
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+
+4. **Open in browser: Visit http://localhost:3000 to view the app.**
+
