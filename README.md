@@ -11,7 +11,17 @@ This application is a versatile solution for small businesses to seamlessly inte
 - **Marketplace Management**: Add, remove, and monitor marketplace sync statuses.
 
 ---
+### Data Model
+![{681514CF-EC46-4A2F-92EE-6D87E4C0AE5D}](https://github.com/user-attachments/assets/aa1b99d5-4da0-4616-9232-e4ca931442c2)
 
+### Inventory Sync Workflow
+![{DA609F25-16ED-4FA8-BFD6-B358DAB1100B}](https://github.com/user-attachments/assets/cd37d7d1-5ca4-4821-802a-9d9856dea228)
+
+
+### Order Processing Workflow
+![{F0F04DB8-6F83-4664-900D-E7C3583D6147}](https://github.com/user-attachments/assets/28202363-d6ae-4e7f-9981-a0ee893d4678)
+
+---
 <!-- ## Tech Stack
 - **Frontend Framework**: [Next.js](https://nextjs.org/), [React.js](https://reactjs.org/)
 - **UI Styling**: [Tailwind CSS](https://tailwindcss.com/)
